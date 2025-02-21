@@ -660,6 +660,8 @@ require('lazy').setup({
       local servers = {
         clangd = {},
         cmake = {},
+        nginx = {},
+        java = {},
         -- gopls = {},
         -- pyright = {},
         -- rust_analyzer = {},
